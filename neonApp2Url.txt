@@ -1,1 +1,1 @@
-https://play.google.com/store/apps/details?id=com.us.army.robot.truck.military.robot.hero
+market://details?id=com.us.army.robot.truck.military.robot.hero
