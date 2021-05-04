@@ -1,1 +1,1 @@
-https://play.google.com/store/apps/details?id=com.superhero.robot.vegas.crime.simulator.police
+market://details?id=com.superhero.robot.vegas.crime.simulator.police
